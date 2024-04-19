@@ -20,12 +20,12 @@ KEY FEATURES:
 
 Several key attributes have been identified as influential in predicting attrition rates:
 
-ReportingPersonCode
-AverageMonthlyWorkingHours
-DesignationCode
-AllocatedLeaves
-UsedLeaves
-Level2Code
+ReportingPersonCode,
+AverageMonthlyWorkingHours,
+DesignationCode,
+AllocatedLeaves,
+UsedLeaves,
+Level2Code,
 Age
 
 RESULTS AND RECOMMENDATIONS:
